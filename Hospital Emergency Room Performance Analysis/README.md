@@ -105,7 +105,7 @@ A calendar table was created using Power Query to enable time-based analysis.
 
 
 ## 📷 Dashboard Preview
-
+<a href="https://github.com/iaarifpathan/Excel-Project-/blob/main/Hospital%20Emergency%20Room%20Performance%20Analysis/Final%20Dashboard.PNG"> Dashboard </a>
 
 ---
 
